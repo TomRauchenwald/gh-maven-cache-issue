@@ -1,4 +1,4 @@
-name: Maven Build Java 11
+name: Maven Build Java 17
 
 on: [push]
 
